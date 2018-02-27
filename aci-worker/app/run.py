@@ -17,7 +17,7 @@ import time
 
 from dbAzureBlob import DbAzureBlob
 
-PICTURE_DIR = "/Pics/"
+PICTURE_DIR = ""
 
 start_time = time.time()                        # Start the timer
 
