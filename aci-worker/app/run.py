@@ -14,6 +14,7 @@ import os
 import time
 import requests
 import time
+import urllib.parse
 
 from dbAzureBlob import DbAzureBlob
 
